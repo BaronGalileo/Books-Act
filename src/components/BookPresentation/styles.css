@@ -6,7 +6,7 @@
     justify-content: space-around;
     align-items: center;
     z-index: 1;
-    background-image: url("F:\Act-project\act-mega\src\images\stars.gif");
+    background-image: url("../../images/stars.gif");
     background-size: 20% 20%; /* Размер фона 10% от ширины и высоты блока */
     background-position: center; 
 }
