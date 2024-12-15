@@ -58,7 +58,6 @@ export const Cover = () => {
                 </div>
             <Text className="red-text bond cover-txt for-h1" >САМАЯ УДИВИТЕЛЬНАЯ КНИГА С ОБЪЕМНЫМИ КАРТИНКАМИ</Text>
             <ButtonBallCandy href="https://ast.ru/series/samaya-udivitelnaya-kniga-s-obemnymi-kartinkami-7e485f/?SORT=NEW_SORT&SORT_BY=DESC">Погрузись в чудо</ButtonBallCandy>
-            {/* <BallonButton href="https://ast.ru/series/samaya-udivitelnaya-kniga-s-obemnymi-kartinkami-7e485f/?SORT=NEW_SORT&SORT_BY=DESC">Погрузись в чудо</BallonButton> */}
             <div className="conteiners-images">
                 <div className="conteiner-image">
                 <motion.div

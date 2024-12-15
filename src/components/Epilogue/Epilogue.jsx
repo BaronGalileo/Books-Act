@@ -3,6 +3,7 @@ import "./styles.css"
 import { Text } from "../Text/Text";
 import { BallonButton } from "../Button/BallonButton";
 import { Img } from "../Img/Img";
+import {GifComponents} from "../GifComponent/GifComponents";
 
 
 export const Epilogue = () => {
@@ -17,6 +18,7 @@ export const Epilogue = () => {
             <Img className="malvina" src="../images/мальвина.png"></Img>
             <Text as="h1" className="bond red-text txt-footer">ПОДАРИ КНИГУ — ПОДАРИ ВОЛШЕБСТВО</Text>
             <Img className="present" src="../images/подарки.png"/>
+            <GifComponents clear  foto="../images/Бабочка-статик.png"  classWrapper="butterfly-non-stop" className="img butterfly-img"/>
         </div>
     )
 }

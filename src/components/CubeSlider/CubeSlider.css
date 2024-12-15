@@ -40,7 +40,7 @@
     aspect-ratio: 1 / 1;
     transform-style: preserve-3d;
     background: rgba(0, 0, 0, 0.2);
-    background-image: url("F:\Act-project\act-mega\src\images\Бабочка02.gif");
+    background-image: url("../../images/Бабочка02.gif");
     background-size: 20% 20%; /* Размер фона 10% от ширины и высоты блока */
     background-position: center; 
     background-repeat: repeat;

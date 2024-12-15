@@ -29,8 +29,13 @@
 
 
 .mirror {
-    transform: scaleX(1);
-  }
+  transform: scaleX(1);
+}
+
+.butterfly-non-stop {
+  transform: scaleX(1);
+}
+
 
 .butterfly-cover {
     width: 100px;

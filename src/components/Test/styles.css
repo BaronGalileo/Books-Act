@@ -31,7 +31,7 @@
 .animation-frame {
   width: 20vw;  /* Общая ширина для всех 5 кадров */
   height: 16vw;  /* Высота блока */
-  background-image: url('F:\Act-project\act-mega\src\images\емае2-1.png'); /* Путь к вашему изображению с кадрами */
+  background-image: url('../../images/stars.gif'); /* Путь к вашему изображению с кадрами */
   background-size: cover;   /* Заполняет блок по высоте, сохраняя пропорции */
   /* background-position: center center; */
   /* background-repeat: no-repeat; */
